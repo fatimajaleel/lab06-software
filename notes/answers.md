@@ -1,0 +1,1 @@
+The apt update command refreshes the package lists from the software repositories. It tells us which packages have new versions available but does not install them. The apt upgrade command downloads and installs the available updates for installed packages. In simple words, apt update checks for updates, while apt install them.
